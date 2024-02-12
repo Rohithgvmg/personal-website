@@ -1,0 +1,25 @@
+.now{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bi {
+    background-color:white;
+    border-radius: 3px;
+    width:30;
+     height:30;
+}
+/* .btn{
+    length:10px;
+} */
+.imk{
+    height:100%;
+    width:100%;
+}
+.hel{
+   border-width: 5px;
+   border-color: black;
+}
+h1{
+    text-align: center;
+}
